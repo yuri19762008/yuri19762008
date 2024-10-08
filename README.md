@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on ... Mi BootCamp Fullstack
 - ⚡ https://yuri19762008.github.io/portafolio/
 - 🤔 https://www.youtube.com/@YuriOctavioUrzuaLebuy
-- 
+  
 >[!NOTE]
 >NOTA ESPECIAL
 
