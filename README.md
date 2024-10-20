@@ -4,6 +4,8 @@
 - ⚡ https://yuri19762008.github.io/portafolio/
 - 🤔 https://www.youtube.com/@YuriOctavioUrzuaLebuy
 
+
+### LO DE A CONTINUACION ES PARA ADORNO 
   
 >[!NOTE]
 >NOTA ESPECIAL
