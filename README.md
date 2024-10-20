@@ -5,7 +5,7 @@
 - 🤔 https://www.youtube.com/@YuriOctavioUrzuaLebuy
 
 
-### LO DE A CONTINUACION ES PARA ADORNO 
+### LO QUE VIENE CONTINUACION ES PARA ADORNO 
   
 >[!NOTE]
 >NOTA ESPECIAL
@@ -17,10 +17,10 @@
 >NOTA IMPORTANTE
 
 >[!WARNING]
->NOTA AVISO
+> "AVISO"
 
 >[!CAUTION]
->NOTA CUIDADO
+> "CUIDADO"
   
   
 
