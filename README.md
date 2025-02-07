@@ -1,7 +1,8 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ... Mi BootCamp Fullstack
+- 🔭 I’m currently Ingeniero en electrónica , Desarrollador FullStack Python Trainee
 - 💬 DeV Backend Python in process
 - ⚡ https://yuri19762008.github.io/portafolio/
+- 💬 https://www.linkedin.com/in/yuriurzua/
 - 🤔 https://www.youtube.com/@YuriOctavioUrzuaLebuy
 
 
