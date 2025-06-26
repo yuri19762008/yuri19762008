@@ -1,6 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently Ingeniero en electrónica , Desarrollador FullStack Python Trainee
-- 💬 DeV Backend Python in process
+- 🔭 I’m currently Ingeniero en electrónica , Desarrollador FullStack Python Trainee and Data Science.
+- 💬 Si deseas una pagina para tu negocio contactame a E-mail yuri19762008hotmail.com
 - ⚡ https://yuri19762008.github.io/portafolio/
 - 💬 https://www.linkedin.com/in/yuriurzua/
 - 🤔 https://www.youtube.com/@YuriOctavioUrzuaLebuy
