@@ -1,85 +1,118 @@
 # 👋 Hola, soy Yuri Urzúa
 
-💡 **Analista de Datos | Automatización | Python Developer**
+💡 **Data Analyst | Python Developer | Automatización**
 
-Apasionado por transformar datos en decisiones y crear herramientas que simplizan procesos reales.
-Me enfoco en soluciones prácticas usando Python, visualización de datos y aplicaciones interactivas.
+Transformo datos en decisiones y procesos manuales en soluciones automatizadas.
+Me especializo en construir herramientas útiles, modelos predictivos y visualizaciones con impacto real.
 
 ---
 
 ## 🚀 Sobre mí
 
-* 📊 Experiencia en análisis de datos y visualización
-* 🧠 Desarrollo de modelos de Machine Learning (ej: churn)
+* 📊 +2 años trabajando con análisis de datos
+* 🧠 Experiencia en Machine Learning (predicción de churn)
 * ⚙️ Automatización de procesos con Python
-* 🖥️ Creación de aplicaciones con Streamlit
+* 🌐 Desarrollo de apps interactivas con Streamlit
 * 🚗 Experiencia en operaciones reales (logística y servicios audiovisuales)
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🧠 Stack Tecnológico
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge\&logo=plotly\&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E77BC?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
+**Lenguajes y análisis**
 
----
+* Python (Pandas, NumPy)
+* SQL (en proceso / opcional si quieres agregarlo)
 
-## 📌 Proyectos destacados
+**Visualización**
 
-🔹 **Herramientas de automatización**
+* Matplotlib
+* Seaborn
+* Streamlit
 
-* Scripts para optimizar tareas repetitivas
-* Comparadores de archivos y carpetas
-* Generación automática de reportes
+**Machine Learning**
 
-🔹 **Análisis de datos**
-
-* Análisis de facturación y ventas
-* Visualización de métricas clave
-* Dashboards con enfoque de negocio
-
-🔹 **Machine Learning**
-
-* Modelos de predicción de churn
-* Evaluación e interpretación de modelos
-* Análisis de variables clave
+* Scikit-learn
+* Modelos de clasificación
+* Evaluación y métricas
 
 ---
 
-## 📊 Lo que estoy haciendo ahora
+## 📌 Proyectos Destacados
 
-* 🔍 Desarrollando modelos predictivos
-* 📈 Mejorando dashboards y visualizaciones
-* 🧰 Creando herramientas reutilizables en Python
+### 🔹 📂 Folder Comparator App
+
+Aplicación en Python con Streamlit para comparar carpetas en Windows:
+
+* Detección de archivos faltantes
+* Identificación de duplicados
+* Interfaz gráfica simple
+* Exportación de resultados
+
+👉 Ideal para automatización operativa
 
 ---
 
-## 🎯 Objetivo profesional
+### 🔹 📊 Análisis de Ventas
 
-Seguir creciendo como **Data Analyst / Data Scientist**, desarrollando soluciones que combinen:
+Proyecto de análisis de facturación:
 
-> 📊 Datos + ⚙️ Automatización + 💡 Impacto real
+* Limpieza de datos
+* Análisis por períodos
+* Visualización de métricas
+* Insights de negocio
+
+---
+
+### 🔹 🤖 Modelo de Churn
+
+Modelo predictivo para cancelación de clientes:
+
+* Preprocesamiento de datos
+* Entrenamiento de modelos
+* Evaluación (accuracy, recall, etc.)
+* Interpretación de variables clave
+
+---
+
+## 📊 Actualmente
+
+* 🔍 Construyendo herramientas en Python reutilizables
+* 📈 Mejorando dashboards de análisis
+* 🧠 Profundizando en Machine Learning aplicado
+
+---
+
+## 🎯 Objetivo Profesional
+
+Convertirme en un perfil sólido de:
+
+> **Data Analyst / Data Scientist** enfocado en soluciones reales y automatización
+
+---
+
+## 📈 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuri19762008\&show_icons=true\&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuri19762008\&layout=compact)
 
 ---
 
 ## 📫 Contacto
 
-* 💼 GitHub: https://github.com/yuri19762008
+* GitHub: https://github.com/yuri19762008
 
 ---
 
-## ⭐ Frase personal
+## 💡 Filosofía
 
-> "Los datos no sirven si no generan decisiones."
+> "Si no genera valor, no es análisis... es solo ruido."
 
 ---
 
-## 🚀 Destaca tu trabajo
+## ⭐
 
-Si alguno de mis proyectos te parece interesante, ¡no olvides darle una ⭐!
+Si te interesa lo que hago, revisa mis repos fijados 👇
 
 ---
