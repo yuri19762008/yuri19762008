@@ -1,156 +1,85 @@
-# 🚀 Proyecto - Herramienta de Análisis / Automatización en Python
+# 👋 Hola, soy Yuri Urzúa
 
-> Aplicación desarrollada en Python para automatizar tareas, analizar datos y mejorar la eficiencia en procesos operativos.
+💡 **Analista de Datos | Automatización | Python Developer**
 
----
-
-## 🧠 Descripción
-
-Este proyecto tiene como objetivo resolver problemas comunes de análisis de datos y automatización, proporcionando una herramienta simple pero potente que permite:
-
-* ✔️ Procesar y analizar datos de manera eficiente
-* ✔️ Automatizar tareas repetitivas
-* ✔️ Generar reportes claros y útiles
-* ✔️ Mejorar la toma de decisiones basada en datos
-
-Está orientado a analistas de datos, desarrolladores y profesionales que buscan optimizar su flujo de trabajo.
+Apasionado por transformar datos en decisiones y crear herramientas que simplizan procesos reales.
+Me enfoco en soluciones prácticas usando Python, visualización de datos y aplicaciones interactivas.
 
 ---
 
-## 🎯 Objetivo
+## 🚀 Sobre mí
 
-El objetivo principal es ofrecer una solución práctica que permita reducir el tiempo en tareas manuales y aumentar la productividad mediante el uso de Python.
-
----
-
-## 🛠️ Tecnologías utilizadas
-
-* 🐍 Python
-* 📊 Pandas
-* 📈 Matplotlib / Seaborn
-* 🌐 Streamlit (opcional para interfaz gráfica)
-* 🗂️ Librerías estándar (os, shutil, etc.)
+* 📊 Experiencia en análisis de datos y visualización
+* 🧠 Desarrollo de modelos de Machine Learning (ej: churn)
+* ⚙️ Automatización de procesos con Python
+* 🖥️ Creación de aplicaciones con Streamlit
+* 🚗 Experiencia en operaciones reales (logística y servicios audiovisuales)
 
 ---
 
-## 📸 Demo / Capturas
+## 🛠️ Tecnologías y herramientas
 
-> ⚠️ Se recomienda agregar imágenes o GIFs del funcionamiento de la aplicación.
-
-Ejemplo:
-
-![Demo](docs/demo.png)
-
----
-
-## ⚙️ Instalación
-
-Clona este repositorio:
-
-```bash
-git clone https://github.com/yuri19762008/tu-repo.git
-cd tu-repo
-```
-
-Instala las dependencias:
-
-```bash
-pip install -r requirements.txt
-```
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge\&logo=plotly\&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E77BC?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
 
 ---
 
-## ▶️ Uso
+## 📌 Proyectos destacados
 
-### Opción 1: Aplicación con interfaz gráfica (Streamlit)
+🔹 **Herramientas de automatización**
 
-```bash
-streamlit run app.py
-```
+* Scripts para optimizar tareas repetitivas
+* Comparadores de archivos y carpetas
+* Generación automática de reportes
 
-### Opción 2: Script en consola
+🔹 **Análisis de datos**
 
-```bash
-python main.py
-```
+* Análisis de facturación y ventas
+* Visualización de métricas clave
+* Dashboards con enfoque de negocio
 
----
+🔹 **Machine Learning**
 
-## 🧩 Estructura del proyecto
-
-```
-📦 proyecto
- ┣ 📂 data
- ┣ 📂 src
- ┣ 📜 app.py
- ┣ 📜 main.py
- ┣ 📜 requirements.txt
- ┗ 📜 README.md
-```
+* Modelos de predicción de churn
+* Evaluación e interpretación de modelos
+* Análisis de variables clave
 
 ---
 
-## 📊 Ejemplo de uso
+## 📊 Lo que estoy haciendo ahora
 
-Ejemplo práctico:
-
-> Comparar dos carpetas para identificar archivos faltantes, duplicados o diferencias entre versiones.
-
----
-
-## 🚧 Roadmap
-
-Mejoras futuras del proyecto:
-
-* [ ] Exportación de resultados a Excel
-* [ ] Generación de reportes en PDF
-* [ ] Mejora de interfaz gráfica
-* [ ] Implementación de logs
-* [ ] Versión ejecutable (.exe para Windows)
+* 🔍 Desarrollando modelos predictivos
+* 📈 Mejorando dashboards y visualizaciones
+* 🧰 Creando herramientas reutilizables en Python
 
 ---
 
-## 🐞 Manejo de errores
+## 🎯 Objetivo profesional
 
-El sistema incluye:
+Seguir creciendo como **Data Analyst / Data Scientist**, desarrollando soluciones que combinen:
 
-* Validación de rutas de entrada
-* Control de errores en lectura de archivos
-* Manejo de excepciones para evitar fallos críticos
+> 📊 Datos + ⚙️ Automatización + 💡 Impacto real
 
 ---
 
-## 🤝 Contribuciones
+## 📫 Contacto
 
-Las contribuciones son bienvenidas 🙌
-
-Pasos:
-
-1. Haz un fork del proyecto
-2. Crea una rama (`git checkout -b feature/nueva-funcionalidad`)
-3. Realiza tus cambios
-4. Haz commit (`git commit -m 'Agrega nueva funcionalidad'`)
-5. Envía un pull request
+* 💼 GitHub: https://github.com/yuri19762008
 
 ---
 
-## 📄 Licencia
+## ⭐ Frase personal
 
-Este proyecto está bajo la licencia MIT.
-
----
-
-## 👨‍💻 Autor
-
-**Yuri Urzúa**
-📊 Analista de Datos | Automatización | Python
-
-* GitHub: https://github.com/yuri19762008
+> "Los datos no sirven si no generan decisiones."
 
 ---
 
-## ⭐ Apoya el proyecto
+## 🚀 Destaca tu trabajo
 
-Si este proyecto te fue útil, considera darle una ⭐ en GitHub.
+Si alguno de mis proyectos te parece interesante, ¡no olvides darle una ⭐!
 
 ---
