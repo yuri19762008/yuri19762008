@@ -68,7 +68,8 @@ Seguir creciendo como **Data Analyst / Data Scientist**, desarrollando solucione
 
 ## 📫 Contacto
 
-* 💼 GitHub: https://github.com/yuri19762008
+* GitHub: https://github.com/yuri19762008
+* WWeb: https://yuri19762008.github.io/portafolio/ 
 
 ---
 
